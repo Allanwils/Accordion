@@ -14,3 +14,6 @@ clone the repository to your local machine
 run npm install
 
 run run dev
+
+# Or, you can see the Accordion deployed on
+https://accordion2024.netlify.app
